@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BhargavChoppalli/React-routing.git/static/css/main.31d6cfe0.css",
+    "main.js": "/BhargavChoppalli/React-routing.git/static/js/main.cdcf9c01.js",
+    "static/js/453.ed3810f9.chunk.js": "/BhargavChoppalli/React-routing.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/BhargavChoppalli/React-routing.git/index.html",
+    "main.cdcf9c01.js.map": "/BhargavChoppalli/React-routing.git/static/js/main.cdcf9c01.js.map",
+    "453.ed3810f9.chunk.js.map": "/BhargavChoppalli/React-routing.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cdcf9c01.js"
+  ]
+}
