@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/BhargavChoppalli/React-routing.git/static/css/main.31d6cfe0.css",
-    "main.js": "/BhargavChoppalli/React-routing.git/static/js/main.cdcf9c01.js",
-    "static/js/453.ed3810f9.chunk.js": "/BhargavChoppalli/React-routing.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/BhargavChoppalli/React-routing.git/index.html",
-    "main.cdcf9c01.js.map": "/BhargavChoppalli/React-routing.git/static/js/main.cdcf9c01.js.map",
-    "453.ed3810f9.chunk.js.map": "/BhargavChoppalli/React-routing.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/React-routing/static/css/main.31d6cfe0.css",
+    "main.js": "/React-routing/static/js/main.1cd314b1.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-routing/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/React-routing/index.html",
+    "main.1cd314b1.js.map": "/React-routing/static/js/main.1cd314b1.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-routing/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.cdcf9c01.js"
+    "static/js/main.1cd314b1.js"
   ]
 }
