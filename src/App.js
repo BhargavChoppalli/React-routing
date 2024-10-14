@@ -10,7 +10,7 @@ const App = () => {
   return (
     <BrowserRouter basename='/React-routing'>
       <Routes>
-        <Route path="/" element={<Home/>}/>
+        <Route exact path="/React-routing" element={<Home/>}/>
         <Route path="about" element={<About/>}/>
         <Route path="services" element={<Services/>}/>
         <Route path="contact" element={<Contact/>}/>
